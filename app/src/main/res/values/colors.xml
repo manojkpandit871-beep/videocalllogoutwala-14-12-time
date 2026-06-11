@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material3 Light palette (Blue seed) -->
+    <color name="md_theme_primary">#1A6CB5</color>
+    <color name="md_theme_on_primary">#FFFFFF</color>
+    <color name="md_theme_primary_container">#D1E4FF</color>
+    <color name="md_theme_on_primary_container">#001D36</color>
+    <color name="md_theme_secondary">#535F70</color>
+    <color name="md_theme_tertiary">#6B5778</color>
+    <color name="md_theme_surface">#FDFCFF</color>
+    <color name="md_theme_on_surface">#1A1C1E</color>
+    <color name="md_theme_surface_variant">#DFE2EB</color>
+    <color name="md_theme_on_surface_variant">#43474E</color>
+    <color name="md_theme_outline">#73777F</color>
+
+    <!-- Material3 Dark palette -->
+    <color name="md_theme_dark_primary">#9ECAFF</color>
+    <color name="md_theme_dark_on_primary">#003258</color>
+    <color name="md_theme_dark_primary_container">#004A7D</color>
+    <color name="md_theme_dark_on_primary_container">#D1E4FF</color>
+    <color name="md_theme_dark_secondary">#BBC7DB</color>
+    <color name="md_theme_dark_tertiary">#D4BBDF</color>
+    <color name="md_theme_dark_surface">#1A1C1E</color>
+    <color name="md_theme_dark_on_surface">#E2E2E6</color>
+    <color name="md_theme_dark_surface_variant">#43474E</color>
+    <color name="md_theme_dark_on_surface_variant">#C3C7CF</color>
+    <color name="md_theme_dark_outline">#8D9199</color>
+
+    <!-- Call type colors -->
+    <color name="call_incoming">#4CAF50</color>
+    <color name="call_outgoing">#2196F3</color>
+    <color name="call_missed">#F44336</color>
+
+    <!-- Incoming call screen -->
+    <color name="incoming_call_bg">#1A1A2E</color>
+
+    <color name="ic_launcher_background">#1A6CB5</color>
+</resources>

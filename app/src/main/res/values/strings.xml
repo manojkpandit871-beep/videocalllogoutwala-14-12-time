@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">VideoCall</string>
+    <string name="welcome">Hello!</string>
+    <string name="powered_by">Powered by ZEGOCLOUD</string>
+    <string name="hint_user_id">Your User ID</string>
+    <string name="hint_room_id">Call Room ID</string>
+    <string name="start_video_call">Start Video Call</string>
+    <string name="tip_same_room">Tip: Enter the same Room ID on both phones</string>
+
+    <!-- Profile -->
+    <string name="profile">My Profile</string>
+    <string name="change_photo">Change Photo</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="hint_display_name">Display Name</string>
+
+    <!-- Call history -->
+    <string name="call_history">Call History</string>
+    <string name="no_call_history">No call history yet</string>
+    <string name="clear_history">Clear All History</string>
+
+    <!-- Login -->
+    <string name="login">Sign In</string>
+    <string name="incoming_call">Incoming Call</string>
+
+    <!-- Firebase placeholder – replace with actual web client ID -->
+    <string name="default_web_client_id">YOUR_WEB_CLIENT_ID_HERE</string>
+
+    <!-- Logout -->
+    <string name="logout">Logout</string>
+    <string name="logout_dialog_title">Sign Out</string>
+    <string name="logout_dialog_message">Are you sure you want to sign out?</string>
+    <string name="logout_dialog_positive">Sign Out</string>
+    <string name="logout_dialog_negative">Cancel</string>
+</resources>
